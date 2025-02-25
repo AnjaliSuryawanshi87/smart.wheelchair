@@ -18,6 +18,9 @@ GSM Module
 Ultrasonic Sensor / IR Sensor
 Jumper cables
 
+APP USED:
+https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller
+
 Acknowledgement:
  To make this project more friendly, the following should be done. As most of the disabled people who utilize wheelchairs spend most of their time at the wheelchair, the design of the wheelchair should be more convenient by making a flexible wheelchair that predicts the time to change the position of the user’s back. Therefore, the user will not suffer from backache due to sitting in the same position for a long time. As some disabled people cannot change their position because of paralysis. Although two obstacle hazards have been used, however, it will benefit disabled people who are blind or deaf but not both. So, there should be autonomous obstacle avoidance where the wheelchair changes its direction once it detects an obstacle. In the previous literature, some of the paper has discussed this technology but it has some limitation which is a delay in response. Adding to that, although the notification of fall detection does the purpose and alert the user’s relatives or neighbour in case, he does not have relatives if the user falls. However, it is successful only when the user falls at home. As there are some potentials of falling outside his home and nobody know the exact place the user has fall in.
 
